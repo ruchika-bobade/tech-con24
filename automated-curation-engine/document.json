@@ -1,0 +1,36 @@
+{
+  "data": {
+    "https://support.hpe.com/hpesc/public/docDisplay?docId=a00120892en_us&page=GUID-28A88526-F038-4F01-837D-49CEA9B0A3B7.html": {
+    "tables": {},
+    "links": [],
+    "content": "OpsRamp is an IT Operations Management (ITOM) solution that provides IT\nmonitoring and observability, intelligent automation and AI-driven event and incident\nresolution. OpsRamp provides end-to-end visibility and control across hybrid and multi-cloud\nIT environments.\nOpsRamp provides:\n* Hybrid discovery and observability. Auto-discover and monitor all IT\nresources anywhere across edge, on-premise and public cloud environments.\n* A single unified view. Use a centralized operations command center with\noverall observability and the ability to trace and monitor various logs and applications.\nThis leads to faster root cause analysis and resolution.\n* End-to-end visibility. Monitor and manage environments with multi-vendor\ncompute devices, storage devices, networks, virtual machines, containers, databases, cloud\nservices, software assets and more.\n* Event and incident Management with AIOps and machine learning. Reduce alert\noverload while expediting mean time to discover (MTTD) and mean time to resolve (MTTR).\n* Automation and remediation of incidents which reduces service outages and\nslowdowns, saves time, and improves both operational governance and team productivity.\n* Auto-correlation with AIOps and machine learning. This duplicates and\nsuppresses alerts to reduce alert volumes by up to 99%.\n* Auto-patching, which allows you to stay up-to-date, compliant and secure by\napplying updates to software, drivers, and firmware.\nFrom the HPE GreenLake platform home\npage, click Get Started or Launch on the\nOpsRamp tile to open the OpsRamp service.",
+    "header": "OpsRamp",
+    "keywords": [
+      "intelligent automation and AI-driven",
+      "automation and AI-driven event",
+      "AI-driven event and incident",
+      "intelligent automation",
+      "AI-driven event",
+      "automation and AI-driven",
+      "Operations Management",
+      "Event and incident Management",
+      "monitoring and observability",
+      "Hybrid discovery and observability",
+      "machine learning",
+      "OpsRamp service",
+      "event and incident"
+    ],
+    "raw": "# OpsRamp\n\nOpsRamp is an IT Operations Management (ITOM) solution that provides IT\nmonitoring and observability, intelligent automation and AI-driven event and incident\nresolution. OpsRamp provides end-to-end visibility and control across hybrid and multi-cloud\nIT environments.\n\nOpsRamp provides:\n\n* Hybrid discovery and observability. Auto-discover and monitor all IT\nresources anywhere across edge, on-premise and public cloud environments.\n* A single unified view. Use a centralized operations command center with\noverall observability and the ability to trace and monitor various logs and applications.\nThis leads to faster root cause analysis and resolution.\n* End-to-end visibility. Monitor and manage environments with multi-vendor\ncompute devices, storage devices, networks, virtual machines, containers, databases, cloud\nservices, software assets and more.\n* Event and incident Management with AIOps and machine learning. Reduce alert\noverload while expediting mean time to discover (MTTD) and mean time to resolve (MTTR).\n* Automation and remediation of incidents which reduces service outages and\nslowdowns, saves time, and improves both operational governance and team productivity.\n* Auto-correlation with AIOps and machine learning. This duplicates and\nsuppresses alerts to reduce alert volumes by up to 99%.\n* Auto-patching, which allows you to stay up-to-date, compliant and secure by\napplying updates to software, drivers, and firmware.\n\nFrom the HPE GreenLake platform home\npage, click Get Started or Launch on the\nOpsRamp tile to open the OpsRamp service."
+  }
+  },
+  "qna": [
+    {
+      "questions": [
+        "How does OpsRamp handle hybrid discovery and observability in IT environments?",
+        "What's OpsRamp's way of dealing with discovery and observability in hybrid IT settings?"
+      ],
+      "answer": "\"### Hybrid Discovery and Observability in OpsRamp\\n\\nOpsRamp offers a comprehensive IT Operations Management solution for addressing the challenges in hybrid IT environments. With its hybrid discovery and observability capabilities, OpsRamp ensures that IT teams can **auto-discover** and continuously monitor all IT resources seamlessly. This includes components across varying locations such as edge, on-premises, and public cloud environments. The platform facilitates a deep level of insight, allowing for **real-time visibility** into the health and performance of a diverse set of IT assets.\\n\\n* The **auto-discovery** feature implies that OpsRamp can dynamically identify IT resources as they are added or altered, without the need for manual intervention. This contributes to maintaining an up-to-date understanding of the environment's infrastructure landscape.\\n* OpsRamp's observability spans **multi-vendor compute devices, storage devices, networks, virtual machines, containers, databases, cloud services, and software assets**, ensuring that no aspect of the IT infrastructure is left unmonitored.\\n* By implementing such a holistic monitoring approach, OpsRamp aims to enable organizations to detect potential issues promptly, thus **minimizing disruptions** and ensuring a smooth operational continuity.\\n\\nUltimately, OpsRamp's focus on hybrid discovery and observability plays a crucial role in modern IT management, offering an essential service for maintaining operational efficiency and reliability in complex IT landscapes.\""
+    }
+  ]
+
+}
