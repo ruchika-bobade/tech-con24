@@ -1,5 +1,5 @@
-./high-speed-serve/upload-server/node_modules
-./high-speed-serve/deploy-server/node_modules
-./high-speed-serve/reverse-proxy-server/node_modules
+high-speed-serve/upload-server/node_modules
+high-speed-serve/deploy-server/node_modules
+high-speed-serve/reverse-proxy-server/node_modules
 .DS_Store
 .idea
